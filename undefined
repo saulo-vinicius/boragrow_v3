@@ -1,0 +1,9 @@
+import HomePage from "@/app/page";
+
+export default function HomePageStoryboard() {
+  return (
+    <div className="bg-background">
+      <HomePage />
+    </div>
+  );
+}
